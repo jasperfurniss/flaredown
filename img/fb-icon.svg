@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="301px" height="301px" viewBox="0 0 301 301" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.0.4 (8053) - http://www.bohemiancoding.com/sketch -->
+    <title>fb-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="301" height="301" rx="23"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Artboard-1" sketch:type="MSArtboardGroup" transform="translate(-81.000000, -146.000000)">
+            <g id="fb-icon" sketch:type="MSLayerGroup" transform="translate(81.000000, 146.000000)">
+                <mask id="mask-2" sketch:name="FacebookBG" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="FacebookBG" fill="#3B579D" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+                <path d="M163,138 L163,100.005253 C163,70.1754765 187.176864,46 217.000537,46 L250.999463,46 C253.027759,46 255.029877,46.1117747 257,46.3294995 L257,88 L257,88 L223.993706,88 C215.712911,88 209,94.713092 209,103.007314 L209,138 L255,138 L249.369453,185 L209,185 L209,301 L163,301 L163,301 L163,185 L123,185 L123,138 L163,138 Z" id="f" fill="#FFFFFF" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

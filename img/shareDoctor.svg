@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="110px" height="110px" viewBox="0 0 110 110" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.0.4 (8053) - http://www.bohemiancoding.com/sketch -->
+    <title>shareDoctor</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="54" cy="54" r="54"></circle>
+        <circle id="path-3" cx="54" cy="54" r="54"></circle>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Artboard-1" sketch:type="MSArtboardGroup" transform="translate(-429.000000, -1438.000000)">
+            <g id="Group" sketch:type="MSLayerGroup" transform="translate(398.000000, 1371.000000)">
+                <g id="shareDoctor" transform="translate(32.000000, 68.000000)">
+                    <g id="Group">
+                        <mask id="mask-2" sketch:name="Oval 18" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Oval-18" fill="#F2EEE8" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+                        <rect id="Rectangle-4" fill="#FFFFFF" sketch:type="MSShapeGroup" mask="url(#mask-2)" x="17" y="22" width="74" height="108"></rect>
+                        <text id="Health-Report" sketch:type="MSTextLayer" mask="url(#mask-2)" font-family="Proxima Nova" font-size="10" font-weight="normal" fill="#9B9B9B">
+                            <tspan x="24" y="40">Health Report</tspan>
+                        </text>
+                        <text id="4/5-thru-5/8" sketch:type="MSTextLayer" mask="url(#mask-2)" font-family="Proxima Nova" font-size="6" font-weight="260" fill="#9B9B9B">
+                            <tspan x="38" y="48">4/5 thru 5/8</tspan>
+                        </text>
+                        <circle id="Oval-25" fill="#73C1BA" sketch:type="MSShapeGroup" mask="url(#mask-2)" cx="29" cy="61" r="4"></circle>
+                        <circle id="Oval-25" fill="#73C1BA" sketch:type="MSShapeGroup" mask="url(#mask-2)" cx="45" cy="61" r="4"></circle>
+                        <circle id="Oval-25" fill="#73C1BA" sketch:type="MSShapeGroup" mask="url(#mask-2)" cx="61" cy="61" r="4"></circle>
+                        <path d="M78,65 C80.209139,65 82,63.209139 82,61 C82,58.790861 80.209139,57 78,57 C75.790861,57 74,58.790861 74,61 C74,63.209139 75.790861,65 78,65 Z" id="Oval-25" fill="#73C1BA" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+                        <path d="M31.0088455,82.8622334 L50.1159593,82.8622334 L55.7312541,73.7834895 L65.5593908,92.2440991 L71.2530139,81.3722548 L76.7505836,81.3722548" id="Path-9" stroke="#73C1BA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+                    </g>
+                    <mask id="mask-4" sketch:name="Oval 18" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <use id="Oval-18" stroke="#F2EEE8" stroke-width="2" sketch:type="MSShapeGroup" xlink:href="#path-3"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

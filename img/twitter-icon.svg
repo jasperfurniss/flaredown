@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="300px" height="300px" viewBox="0 0 300 300" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.0.4 (8053) - http://www.bohemiancoding.com/sketch -->
+    <title>twitter-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="300" height="300" rx="23"></rect>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Artboard-1" sketch:type="MSArtboardGroup" transform="translate(-413.000000, -146.000000)">
+            <g id="twitter-icon" sketch:type="MSLayerGroup" transform="translate(413.000000, 146.000000)">
+                <mask id="mask-2" sketch:name="TwitterBG" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="TwitterBG" fill="#16B9ED" sketch:type="MSShapeGroup" xlink:href="#path-1"></use>
+                <path d="M258.829154,108.948589 C254.93869,193.57997 185.092745,261 99.5,261 C67.2979376,261 37.3247507,251.457055 12.254178,235.044905 C17.2482243,235.675251 22.3364971,236 27.5,236 C93.9117227,236 147.878519,182.278425 148.982746,115.585572 C147.048549,109.907449 146,103.825101 146,97.5 C146,66.2959101 171.519768,41 203,41 C234.480232,41 260,66.2959101 260,97.5 C260,101.422386 259.596769,105.251418 258.829154,108.948589 L258.829154,108.948589 Z" id="Oval-1" fill="#FFFFFF" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+                <path d="M279.361873,42.6501922 C271.825094,67.1733004 248.994373,85 222,85 C199.531174,85 179.946968,72.6494806 169.6658,54.366859 C182.832916,58.6720118 196.894593,61 211.5,61 C236.251302,61 259.441064,54.3142594 279.361873,42.6501922 Z" id="beak" fill="#FFFFFF" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+                <path d="M169.918821,81.5694938 C183.290402,94.817639 201.689654,103 222,103 C249.448594,103 273.406689,88.055403 286.181453,65.8590398 L286.181454,65.8590369 C272.642489,71.7396655 257.701991,75 242,75 C225.447532,75 209.74128,71.3769171 195.631021,64.8805276 C188.97129,73.0386906 180.045866,78.9850322 169.918821,81.5694938 Z" id="beak-copy" fill="#FFFFFF" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+                <path d="M131.437182,107.418761 C121.452993,123.382121 103.716466,134 83.5,134 C52.2959101,134 27,108.70409 27,77.5 C27,67.0109794 29.8582298,57.1895345 34.8383175,48.7720373 C57.37633,79.767429 91.8126636,101.553048 131.437187,107.418762 Z" id="Oval-6" fill="#FFFFFF" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+                <path d="M99.4899326,98.8825959 C89.3548887,114.027948 72.0919938,124 52.5,124 C43.332106,124 34.6742116,121.816433 27.0180179,117.941001 C27.7825051,148.479157 52.777676,173 83.5,173 C96.0414802,173 107.628565,168.913751 117.002507,162 L196,162 L196,102.564813 C182.40617,106.748159 167.966058,109 153,109 C134.1108,109 116.059425,105.412846 99.4899326,98.8825959 Z" id="Path" fill="#FFFFFF" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+                <path d="M126.877445,106.522383 C144.792623,115.99735 157,134.823082 157,156.5 C157,187.70409 131.70409,213 100.5,213 C74.5136198,213 52.6247706,195.456395 46.0311765,171.566909 C51.5810481,173.151521 57.4414375,174 63.5,174 C98.5700833,174 127,145.570083 127,110.5 C127,109.164091 126.958747,107.837817 126.877445,106.522383 Z" id="Path" fill="#FFFFFF" sketch:type="MSShapeGroup" mask="url(#mask-2)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

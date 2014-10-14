@@ -2,6 +2,17 @@
 layout: default
 ---
 
+<script type="text/javascript">
+  $(document).ready(function() {
+    opts = {
+      userCollapse: false,
+      slicePoint: 400
+    }
+    $("#what-we-believe").expander(opts);
+    $("#story").expander(opts);
+  });
+</script>
+
 <h2>
 	Press
 </h2>
@@ -20,7 +31,7 @@ layout: default
   <a href="/img/gallery_logoFull.png" class="gallery-thumb"><img src="img/gallery_logoFull.png" alt=""></a>
   <a href="/img/gallery_logoMonogram.png" class="gallery-thumb"><img src="img/gallery_logoMonogram.png" alt=""></a>
 </div>
-<div class="data">
+<div class="data" id="what-we-believe">
   <h2>What we believe</h2>
   <p>
     We could do a better job treating chronic illness.
@@ -38,7 +49,7 @@ layout: default
     The simple fact is, no one is more motivated to understand and solve the problems of chronic illness than patients themselves. Let's give them the tools to do that.
   </p>
 </div>
-<div class="data">
+<div class="data" id="story">
 	<h2>The story of Flaredown</h2>
 	<p>Logan Merriam was diagnosed with Crohn’s Disease at the age of 15. He spent the next six years working with his doctors to treat the illness, with little success. By then he had tried every medication on the market, and when his disease relapsed his doctor suggested surgical removal of the affected organs.</p>
 	<p>Unwilling to take that step, and at the end of the line with medications, Logan started to look for other ways of controlling his symptoms. He spent a year tracking how his choices affected his illness on paper—things like foods, stress, sleep, and a million others—and made more meaningful progress toward a healthy, normal life than he ever had.</p>

@@ -210,6 +210,18 @@ a.button:hover {
 .data h1, .data h2, .data h3, .data h4 {
 	text-align: center;
 }
+.press-gallery {
+	margin-top: 30px;
+	border-bottom: 1px solid #E1D8C8;
+}
+.gallery-thumb {
+	width: 30%;
+	display: inline-block;
+	vertical-align: middle;}
+.gallery-thumb img {
+	width: 100%;
+	height: auto;
+}
 footer {
 	margin-top: 20px;
 }

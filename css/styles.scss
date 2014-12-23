@@ -93,8 +93,23 @@ label {
 	margin: 0 0 5px 0;
 }
 .btn-igg {
-	width: 85%;
-	min-width: 300px;
+	background: #E45E6E;
+	color: white;
+	border-radius: 5px;
+	box-shadow: 0 3px 0 #E1D8C8;
+	padding: 15px 30px;
+	font-size: 1.5em;
+	font-family: 'pn-light';
+	display:inline-block;
+	margin: 20px 0;
+}
+.btn-igg:hover {
+	background: #D34E5E;
+}
+.btn-igg strong {
+	color: white;
+	font-weight: normal;
+	font-family: 'pn-semibold';
 }
 #mce-EMAIL {
 	box-shadow:         inset 0px 3px 0px 0px rgba(242,238,232,0.50);

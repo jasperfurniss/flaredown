@@ -1,5 +1,5 @@
 ---
-layout: basic
+layout: qa
 ---
 
 # Flaredown Quality Assurance Testing: Round 2
@@ -76,3 +76,4 @@ Login to Flaredown and check that it was successful
  - Log in with correct credentials
  - Observe the error message
 5. If it is a visual problem, take a screenshot or screen recording and attach it to the issue in DoneDone.
+

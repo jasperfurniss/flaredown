@@ -80,8 +80,9 @@ h1 {
 	font-weight: normal;
 }
 h2 {
-	margin: 0 0 30px 0;
+	margin: 20px 0 30px 0;
 	font-weight: normal;
+	color: #987C4D;
 }
 .hero {
 	width: 100%;
@@ -99,7 +100,7 @@ label {
 	box-shadow: 0 3px 0 #E1D8C8;
 	padding: 15px 30px;
 	font-size: 1.5em;
-	font-family: 'pn-light';
+	font-family: 'pn-regular';
 	display:inline-block;
 	margin: 20px 0;
 }
@@ -114,6 +115,7 @@ label {
 .btn-backer-login {
 	color: #73C1BA;
 	display: block;
+	font-family: 'pn-regular';
 }
 #mce-EMAIL {
 	box-shadow:         inset 0px 3px 0px 0px rgba(242,238,232,0.50);

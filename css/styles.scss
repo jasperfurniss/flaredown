@@ -112,10 +112,23 @@ label {
 	font-weight: normal;
 	font-family: 'pn-semibold';
 }
+.btn-login {
+	@extend .btn-igg;
+	background: none;
+	box-shadow: none;
+	border: 2px solid #E45E6E;
+	color: #E45E6E;
+	&:hover {
+		background: none;
+		color: #D34E5E;
+		border-color: #D34E5E;;
+	}
+}
 .btn-backer-login {
 	color: #73C1BA;
 	display: block;
 	font-family: 'pn-regular';
+	line-height: 1.4em;
 }
 #mce-EMAIL {
 	box-shadow:         inset 0px 3px 0px 0px rgba(242,238,232,0.50);

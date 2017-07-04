@@ -4,12 +4,20 @@ layout: landing
 
     <img src="img/flaredown.png" alt="Flaredown" class="hero">
 
-	<a href="https://itunes.apple.com/us/app/flaredown-symptom-tracker/id982963596" class="btn-igg">Get the iPhone app</a>
-  <a href="https://play.google.com/store/apps/details?id=com.flaredown.flaredownWebWrapper" class="btn-igg">Get the Android app</a>
-  <a href="http://app.flaredown.com/signup" class="btn-login">Sign up online</a>
+	<a href="https://itunes.apple.com/us/app/flaredown-symptom-tracker/id982963596" onclick="ga('send', 'event', 'CTA', 'click', 'IOS App Store');" class="btn-igg">Get the iPhone app</a>
+  <a href="https://play.google.com/store/apps/details?id=com.flaredown.flaredownWebWrapper" onclick="ga('send', 'event', 'CTA', 'click', 'Android App Store');" class="btn-igg">Get the Android app</a>
+  <a href="http://app.flaredown.com/signup" onclick="ga('send', 'event', 'CTA', 'click', 'Web sign up');" class="btn-login">Sign up online</a>
 
-	<a href="http://app.flaredown.com/login" class="btn-backer-login">Log in with existing account &raquo;</a>
-	<a href="http://igg.me/at/flaredown" class="btn-backer-login">Support our open-source efforts &raquo;</a>
+	<a href="http://app.flaredown.com/login" onclick="ga('send', 'event', 'Link', 'click', 'Log in');" class="btn-backer-login">Log in with existing account &raquo;</a>
+	<a href="http://igg.me/at/flaredown" onclick="ga('send', 'event', 'Link', 'click', 'Contribute');"class="btn-backer-login">Support our open-source efforts &raquo;</a>
+
+  <section class="card">
+		<img class="icon" src="img/trackConditions.svg" alt="Track all your conditions together">
+		<div class="copy">
+			<h3>Track multiple conditions</h3>
+			<p>Chronic illness is rarely as simple as a single diagnosis. Flaredown tracks everything in one place so you can understand how they interact.</p>
+		</div>
+	</section>
 
 	<section class="card">
 		<img class="icon" src="img/testTreatments.svg" alt="Test any treatment">
@@ -20,10 +28,10 @@ layout: landing
 	</section>
 
 	<section class="card">
-		<img class="icon" src="img/trackTriggers.svg" alt="Track your triggers">
+		<img class="icon" src="img/trackTriggers.svg" alt="Find your triggers">
 		<div class="copy">
 			<h3>Track your triggers</h3>
-				<p>Wondering if stress is causing your disease to relapse? Maybe something you ate? Track everything you worry about so you can sort out the real problems. </p>
+				<p>Wondering if stress is causing your disease to relapse? Maybe weather or food? Track everything you worry about so you can sort out the real problems.</p>
 			</div>
 	</section>
 
@@ -36,7 +44,7 @@ layout: landing
 	</section> -->
 
 	<section class="card">
-		<img class="icon" src="img/contributeKnowledge.svg" alt="Contribute your knowledge">
+		<img class="icon" src="img/contributeKnowledge.svg" alt="Connect with people like you">
 		<div class="copy">
 			<h3>Connect with people like you</h3>
 			<p>No one understands chronic illness as well as our community! Ask questions, get support, and connect with people who share your experiences.</p>

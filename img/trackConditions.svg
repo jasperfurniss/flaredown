@@ -1,0 +1,32 @@
+<svg width="108" height="108" viewBox="0 0 108 108" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>trackConditions</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-74 -3843)">
+<g id="trackConditions">
+<g id="Vector">
+<use xlink:href="#path0_fill" transform="translate(74 3843)" fill="#F2EEE8"/>
+</g>
+<g id="Group">
+<g id="Ellipse 4">
+<use xlink:href="#path1_fill" transform="translate(100 3890)" fill="#70C1BA"/>
+</g>
+<g id="Ellipse 4">
+<use xlink:href="#path2_fill" transform="translate(126.03 3871)" fill="#70C1BA"/>
+</g>
+<g id="Ellipse 4">
+<use xlink:href="#path3_fill" transform="translate(134.364 3899.07)" fill="#70C1BA"/>
+</g>
+<g id="Vector 3">
+<use xlink:href="#path4_stroke" transform="translate(111.258 3880.1)" fill="#70C1BA"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 54 108C 83.8234 108 108 83.8234 108 54C 108 24.1766 83.8234 0 54 0C 24.1766 0 0 24.1766 0 54C 0 83.8234 24.1766 108 54 108Z"/>
+<path id="path1_fill" d="M 23 11.5C 23 17.8513 17.8513 23 11.5 23C 5.14873 23 0 17.8513 0 11.5C 0 5.14873 5.14873 0 11.5 0C 17.8513 0 23 5.14873 23 11.5Z"/>
+<path id="path2_fill" d="M 18.1818 9.10345C 18.1818 14.1311 14.1117 18.2069 9.09091 18.2069C 4.07014 18.2069 0 14.1311 0 9.10345C 0 4.07575 4.07014 0 9.09091 0C 14.1117 0 18.1818 4.07575 18.1818 9.10345Z"/>
+<path id="path3_fill" d="M 13.6364 6.82759C 13.6364 10.5984 10.5838 13.6552 6.81818 13.6552C 3.0526 13.6552 0 10.5984 0 6.82759C 0 3.05681 3.0526 0 6.81818 0C 10.5838 0 13.6364 3.05681 13.6364 6.82759Z"/>
+<path id="path4_stroke" d="M 30.303 26.1724L 30.0621 27.6529L 32.2687 28.012L 31.7644 25.834L 30.303 26.1724ZM 24.2424 0L 25.7038 -0.338393L 25.1385 -2.77948L 23.2539 -1.12819L 24.2424 0ZM 0 21.2414L -0.988528 20.1132L -3.38239 22.2107L -0.240917 22.7219L 0 21.2414ZM 31.7644 25.834L 25.7038 -0.338393L 22.7811 0.338393L 28.8417 26.5108L 31.7644 25.834ZM 23.2539 -1.12819L -0.988528 20.1132L 0.988528 22.3696L 25.231 1.12819L 23.2539 -1.12819ZM -0.240917 22.7219L 30.0621 27.6529L 30.5439 24.6919L 0.240917 19.7609L -0.240917 22.7219Z"/>
+</defs>
+</svg>

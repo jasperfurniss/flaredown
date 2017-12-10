@@ -187,12 +187,12 @@ label {
 	display: inline-block;
 }
 .card h3 {
-	color: #666;
+	color: #333;
 	margin: 0 0 10px 0;
 }
 .card p {
 	margin: 0;
-	color: #999;
+	color: #333;
 	font-family: 'pn-light', "Helvetica Neue", Helvetica, Arial, sans-serif;
 	line-height: 1.4em;
 }
@@ -390,5 +390,35 @@ ul {
 .insta-images {
   img {
     width: 100%;
+  }
+}
+
+.trackable {
+  width: 100%;
+  padding: 1em;
+  border-radius: 4px;
+  text-align: left;
+  margin-bottom: .5em;
+  background: white;
+  box-sizing: border-box;
+  color: #333;
+  &>* {
+    vertical-align: middle;
+  }
+  .text {
+    display: inline-block;
+    width: 85%;
+  }
+  h3 {
+    margin: 0;
+    color: #333;
+  }
+  p {
+    margin: 0;
+  }
+  img {
+    width: 30px;
+    height: 30px;
+    margin-right: .5em;
   }
 }

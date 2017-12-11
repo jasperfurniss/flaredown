@@ -22,6 +22,16 @@
     font-style: normal;
 }
 @font-face {
+    font-family: 'pn-semibold';
+    src: url('../fnt/proximanova-semibold-webfont.eot');
+    src: url('../fnt/proximanova-semibold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fnt/proximanova-semibold-webfont.woff') format('woff'),
+         url('../fnt/proximanova-semibold-webfont.ttf') format('truetype'),
+         url('../fnt/proximanova-semibold-webfont.svg#proxima_novasemibold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
     font-family: 'pn-bold';
     src: url('../fnt/proximanova-bold-webfont.eot');
     src: url('../fnt/proximanova-bold-webfont.eot?#iefix') format('embedded-opentype'),
@@ -61,7 +71,14 @@ h1 {
 h2 {
   font-size: 1.75rem;
   margin-bottom: 0.5rem;
+  font-weight: normal;
+  font-family: 'pn-semibold';
 }
+h3 {
+  font-weight: normal;
+  font-family: 'pn-semibold';
+}
+
 p {
   line-height: 1.4em;
   max-width: 95%;

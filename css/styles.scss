@@ -127,11 +127,11 @@ a {
   color: white;
   padding-top: 1rem;
   // background: linear-gradient(45deg, #867EB8, #43B0D6, #7D4282, #E25097);
-  background: linear-gradient(-45deg, #38C2B6, #58AF8D, #43B0D6);
+  background: linear-gradient(-45deg, #7D4282, #43B0D6, #58AF8D );
 	background-size: 400% 400%;
-	-webkit-animation: Gradient 5s ease infinite;
-	-moz-animation: Gradient 5s ease infinite;
-	animation: Gradient 5s ease infinite;
+	-webkit-animation: Gradient 8s ease infinite;
+	-moz-animation: Gradient 8s ease infinite;
+	animation: Gradient 8s ease infinite;
   padding: 0;
   margin-bottom: 1rem;
   .logo {
@@ -156,37 +156,37 @@ a {
 
 @-webkit-keyframes Gradient {
 	0% {
-		background-position: 0% 50%
+		background-position: 0% 0%;
 	}
 	50% {
-		background-position: 100% 50%
+		background-position: 100% 100%;
 	}
 	100% {
-		background-position: 0% 50%
+		background-position: 0% 0%;
 	}
 }
 
 @-moz-keyframes Gradient {
 	0% {
-		background-position: 0% 50%
+		background-position: 0% 0%
 	}
 	50% {
-		background-position: 100% 50%
+		background-position: 100% 100%;
 	}
 	100% {
-		background-position: 0% 50%
+		background-position: 0% 0%
 	}
 }
 
 @keyframes Gradient {
 	0% {
-		background-position: 0% 50%
+		background-position: 0% 0%
 	}
 	50% {
-		background-position: 100% 50%
+		background-position: 100% 100%;
 	}
 	100% {
-		background-position: 0% 50%
+		background-position: 0% 0%
 	}
 }
 

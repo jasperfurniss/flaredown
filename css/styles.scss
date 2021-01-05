@@ -238,3 +238,14 @@ footer {
   text-align: center;
   padding-bottom: 2rem;
 }
+
+.wrapper.notice {
+  max-width: 600px;
+  margin: 0 auto;
+  width: 90%;
+}
+
+body.notice {
+  padding-top: 3rem;
+  background: #F2EEE8;
+}
